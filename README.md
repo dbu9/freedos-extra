@@ -8,7 +8,10 @@ The original images are taken from https://winworldpc.com/
 
 # Apps included
 
-1. Norton Commander
-2. Norton Utilities
+1. Norton Commander v5.5
+2. Norton Utilities v6.0
 3. Borland C++ 2.0 (includes TASM, TLINK, TD)
-4. HwInfo (https://www.hwinfo.com/download/, DOS version)
+4. HwInfo (https://www.hwinfo.com/download, v7.32)
+
+---
+**END**
